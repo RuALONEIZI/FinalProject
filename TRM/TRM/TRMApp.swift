@@ -13,7 +13,6 @@ struct TRMApp: App {
         WindowGroup {
         MainPage()
             
-           // Image("My Logo")
             
         }
     }

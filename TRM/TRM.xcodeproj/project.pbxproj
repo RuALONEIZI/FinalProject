@@ -13,7 +13,6 @@
 		07D7530927F5D7DB00B84CBF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 07D7530827F5D7DB00B84CBF /* Preview Assets.xcassets */; };
 		07D7531027F6253800B84CBF /* page2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07D7530F27F6253800B84CBF /* page2.swift */; };
 		07DD7B0C27F8DD8C0016DE5B /* page3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07DD7B0B27F8DD8C0016DE5B /* page3.swift */; };
-		07DD7B0F27FA67410016DE5B /* datepicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07DD7B0E27FA67410016DE5B /* datepicker.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,7 +23,6 @@
 		07D7530827F5D7DB00B84CBF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		07D7530F27F6253800B84CBF /* page2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = page2.swift; sourceTree = "<group>"; };
 		07DD7B0B27F8DD8C0016DE5B /* page3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = page3.swift; path = ../page3.swift; sourceTree = "<group>"; };
-		07DD7B0E27FA67410016DE5B /* datepicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = datepicker.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,7 +60,6 @@
 				07D7530527F5D7DB00B84CBF /* Assets.xcassets */,
 				07D7530727F5D7DB00B84CBF /* Preview Content */,
 				07D7530F27F6253800B84CBF /* page2.swift */,
-				07DD7B0E27FA67410016DE5B /* datepicker.swift */,
 				07DD7B0B27F8DD8C0016DE5B /* page3.swift */,
 			);
 			path = TRM;
@@ -148,7 +145,6 @@
 			files = (
 				07D7530427F5D7D800B84CBF /* ContentView.swift in Sources */,
 				07D7530227F5D7D800B84CBF /* TRMApp.swift in Sources */,
-				07DD7B0F27FA67410016DE5B /* datepicker.swift in Sources */,
 				07DD7B0C27F8DD8C0016DE5B /* page3.swift in Sources */,
 				07D7531027F6253800B84CBF /* page2.swift in Sources */,
 			);
